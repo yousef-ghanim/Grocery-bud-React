@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grocery-bud-react/static/css/main.e6bb01d6.chunk.css",
+    "main.js": "/grocery-bud-react/static/js/main.c17d6f42.chunk.js",
+    "main.js.map": "/grocery-bud-react/static/js/main.c17d6f42.chunk.js.map",
+    "runtime-main.js": "/grocery-bud-react/static/js/runtime-main.373aa889.js",
+    "runtime-main.js.map": "/grocery-bud-react/static/js/runtime-main.373aa889.js.map",
+    "static/js/2.22b6d6b3.chunk.js": "/grocery-bud-react/static/js/2.22b6d6b3.chunk.js",
+    "static/js/2.22b6d6b3.chunk.js.map": "/grocery-bud-react/static/js/2.22b6d6b3.chunk.js.map",
+    "index.html": "/grocery-bud-react/index.html",
+    "precache-manifest.a0888b6dfa9e0cd0bcd043d489ea7d0b.js": "/grocery-bud-react/precache-manifest.a0888b6dfa9e0cd0bcd043d489ea7d0b.js",
+    "service-worker.js": "/grocery-bud-react/service-worker.js",
+    "static/css/main.e6bb01d6.chunk.css.map": "/grocery-bud-react/static/css/main.e6bb01d6.chunk.css.map",
+    "static/js/2.22b6d6b3.chunk.js.LICENSE.txt": "/grocery-bud-react/static/js/2.22b6d6b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.373aa889.js",
+    "static/js/2.22b6d6b3.chunk.js",
+    "static/css/main.e6bb01d6.chunk.css",
+    "static/js/main.c17d6f42.chunk.js"
+  ]
+}
